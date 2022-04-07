@@ -2,7 +2,7 @@
 
 ## Contributing
 
-See the [contributing guide](CONTRIBUTING.MD) for detailed instructions on how to contribute.
+See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how to contribute.
 
 ## Table of Contents
 
