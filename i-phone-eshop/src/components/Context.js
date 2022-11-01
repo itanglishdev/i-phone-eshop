@@ -7,7 +7,7 @@ const ContextProvider = ({children}) => {
     const reducer = (state, action) => {
 
         switch(action.type) {
-            
+
 
         }
     }
@@ -19,7 +19,9 @@ const ContextProvider = ({children}) => {
 
     })
   return (
-    <div>Context</div>
+    <Context.Provider value={{state, dispatch}}>
+        {children}
+    </Context.Provider>
   )
 }
 
